@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PrefFragment01</string>
+    <string-array
+        name="entries">
+        <item >一</item>
+        <item >二</item>
+        <item >三</item>
+    </string-array>
+    <string-array name="values">
+        <item >第一项</item>
+        <item >第二项</item>
+        <item >第三项</item>
+    </string-array>
+    <string-array name="cities">
+        <item>成都</item>
+        <item>重庆</item>
+        <item>黄冈</item>
+    </string-array>
+</resources>
